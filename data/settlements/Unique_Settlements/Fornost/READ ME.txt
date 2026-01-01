@@ -1,0 +1,9 @@
+CHANGELOG
+by Annatar
+--
+10/09/24
+- Redid the MainObject attributes of the Ruined Fornost gate, just to be sure (Not including collision)
+- Cleaned up the PTG(pathfinding) of the Ruined Fornost gate / gatehouse as it was narrower on the inside for no reason.
+- Removed the two defense perimeters that covered the main entrance to the plaza and the broken wall beside it, replaced them with a single defense perimeter a little closer to the plaza so as to still cover both entrances. CHANGING THIS FIXED THE BUG WHERE THE NEW OVERHAULED AI (courtesy of Fynn) REFUSED TO ENTER THE SETTLEMENT.
+--
+AI movement inside the settlement is still a little wonk, with the enemy army splitting up into small groups which attack in turn. I am uncertain if this behaviour is at all linked to any battlefield attributes (the three remaining defense perimeters, or only one existing MainObject is all I could think of) or if that's just a quirk of the new battle AI.

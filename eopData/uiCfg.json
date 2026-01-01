@@ -1,0 +1,12 @@
+{
+    "hideLauncher": true,
+    "modCfgFile": "TATW.cfg",
+    "musicVolume": 15,
+    "playBackgroundMusic": false,
+    "useM2TWEOP": true,
+    "useVanillaCfg": false,
+    "modTitle": "Divide and Conquer",
+    "runButtonColor": "201, 169, 64, 150",
+    "runButtonHoverColor": "201, 169, 64, 250",
+    "launcherTheme": "default"
+}
